@@ -1,4 +1,4 @@
-# Jojo Graves
+# Joseph Graves
 
 `Jofish`
 
